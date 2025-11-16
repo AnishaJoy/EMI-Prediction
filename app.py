@@ -15,13 +15,13 @@ st.markdown("""
     <style>
     /* Background and font setup */
     body {
-        background-color: #738bb0;
+        background-color: #EFECE3;
         font-family: 'Poppins', sans-serif;
         color: #e6edf3;
     }
 
     .stApp {
-        background: linear-gradient(180deg, #738bb0 0%, #637a99 100%);
+        background: linear-gradient(180deg, #EFECE3 0%, #EFECE3 100%);
     }
 
     /* Title styles */
