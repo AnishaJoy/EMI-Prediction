@@ -24,7 +24,7 @@ st.markdown("""
         background: linear-gradient(180deg, #EFECE3 0%, #EFECE3 100%);
     }
 
-    /* Title styles */
+    /* Title style */
     h1 {
         color: #58a6ff;
         text-align: center;
